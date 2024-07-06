@@ -3,6 +3,10 @@
 # Regex'ing doesn't suck anymore
 Litex is a minimalistic library of functions that help achieve the versatility of regex while making expressions remain simple and dev-friendly
 
+```bash
+npm i litexp
+```
+
 ## General usage
 All Litex does is basically returning a RegExp, via `Litex.getExp(...)` function.
 

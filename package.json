@@ -1,5 +1,5 @@
 {
-  "name": "etf",
+  "name": "litexp",
   "version": "0.1.0",
   "description": "",
   "main": "./dist/main.js",
@@ -9,8 +9,8 @@
     "dev": "ts-node src/main.ts"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "ua2",
+  "license": "GLWTS",
   "types": "./src/main.d.ts",
   "devDependencies": {
     "ts-node": "^10.9.2",
