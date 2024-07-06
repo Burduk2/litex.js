@@ -44,7 +44,7 @@ const pythonCommentPattern = Litex.getExp(true, [
 all you do is write a sequence of any Litex charachters to form the final expression.
 
 ### Declaration of all Litex charachter funcs
-**NOTE:** when you see '0+' or '1+' it is CharAmt argument in Litex charachter funcs. It is always the last argument in these funcs and here is what is does:
+**NOTE:** when you see '0+' or '1+' it is CharAmt argument in Litex charachter funcs. Here is how to use it and what is does:
 
 | Arg                  | Occurences amount              |
 | -------------------- | ------------------------------ |
